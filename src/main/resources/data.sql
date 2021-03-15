@@ -1,0 +1,1 @@
+insert into theme_park_ride (name, description, thrill_factor) values ('The Beast', 'Very terrifying', 9)
